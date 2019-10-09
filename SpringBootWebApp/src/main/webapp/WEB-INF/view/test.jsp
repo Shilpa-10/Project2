@@ -11,5 +11,6 @@
 <h1>This is first JSP page.</h1>
  
 <%= new java.util.Date()  %>
+
 </body>
 </html>

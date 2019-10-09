@@ -7,8 +7,10 @@
 <title>My Contacts- SpringBootWebApplicationExample</title>
 </head>
 <body>
+
 <h1>My Contacts</h1>
  
 <a href="/list_contact">Click here to list all contacts</a>
 </body>
+
 </html>

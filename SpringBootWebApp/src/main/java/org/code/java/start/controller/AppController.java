@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class AppController {
 	@GetMapping("/hi")
 	public String welcome() {
+		
 		 
 		return "contact";
 	}

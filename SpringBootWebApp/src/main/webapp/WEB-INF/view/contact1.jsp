@@ -8,10 +8,12 @@
 </head>
 <body>
 <h1><center>Contact List</center></h1>
+
 <form action="/list_contact" method="post">
 <table>
 <tr>
 <th>Name</th>
+
 <th>Email</th>
 <th>Country</th>
 

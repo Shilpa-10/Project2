@@ -9,6 +9,7 @@ public class ContactBusiness {
 	
 	public List<Contact> getList(){
 	List<Contact> listContact=  new ArrayList<>();
+	
 	listContact.add(new Contact("Marry","marry@gmail.com","USA"));
 	listContact.add(new Contact("John","john@email.com","UK"));
 	listContact.add(new Contact("Roy","roy@gmail.com","Norway"));
